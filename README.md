@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">🙈Hello, my name is Iago🙈 <br><br> 💻I'm a programming student at Etec MCM and I use this github to report on my learning.💻</p>&nbsp;
+<p align="center">Hi, my name is Davi <br><br> 💻I'm a programming student at Etec MCM and I use this github to report on my learning.💻</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=48.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=iagomenezes19&theme=radical&mode=weekly" />
