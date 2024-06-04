@@ -6,7 +6,7 @@
 <p align="center">Hi, my name is Davi <br><br> 💻I'm a programming student at Etec MCM and I use this github to report on my learning.💻</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=48.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=iagomenezes19&theme=radical&mode=weekly" />
+<img width=48.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=daviramos1c&theme=radical&mode=weekly" />
 <img width=41% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=iagomenezes19&show_icons=true&theme=radical&layout=compact" />
  </div>
  
@@ -64,24 +64,12 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://twitter.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ <a href="https://instagram.com/_davizin_ra" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="daviramos1c" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
 </p>
 <br />
 
